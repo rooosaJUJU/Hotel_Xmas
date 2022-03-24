@@ -5,3 +5,7 @@ Based on a database, observe how hotels perform during Christmas and New Year; a
 [Rosa Zhu](https://github.com/rooosaJUJU) (jingyi.zhu@wustl.edu)
 
 # Data
+
+# Libraries
+* numpy
+* pandas
