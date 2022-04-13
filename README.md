@@ -12,9 +12,6 @@ Data is stored [here](https://github.com/rooosaJUJU/Hotel_and_Customer_Performan
 * pandas
 * matplotlib.pyplot
 
-## Methods
-* 
-
 ## Result
 The result can be found [here](https://github.com/rooosaJUJU/Hotel_and_Customer_Performance_during_Christmas_and_New_Year/blob/main/Code/Hotel_and_Customer_Performance_during_Christmas_and_New_Year.ipynb).
 
