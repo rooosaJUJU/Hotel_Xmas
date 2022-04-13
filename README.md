@@ -10,3 +10,12 @@ Data is stored [here](https://github.com/rooosaJUJU/Hotel_and_Customer_Performan
 ## Libraries
 * numpy
 * pandas
+
+## Methods
+* 
+
+## Result
+The result can be found [here](https://github.com/rooosaJUJU/Hotel_and_Customer_Performance_during_Christmas_and_New_Year/blob/main/Code/Hotel_and_Customer_Performance_during_Christmas_and_New_Year.ipynb).
+
+## Questions?
+Please feel free to contact us via email should you have any questions or would like to contribute.
