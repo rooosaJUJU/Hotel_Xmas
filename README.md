@@ -5,7 +5,7 @@ Based on a database, observe how hotels perform during Christmas and New Year; a
 [Rosa Zhu](https://github.com/rooosaJUJU) (jingyi.zhu@wustl.edu)
 
 ## Data
-Data is [here](https://github.com/rooosaJUJU/Hotel_and_Customer_Performance_during_Christmas_and_New_Year/tree/master).
+Data is stored [here](https://github.com/rooosaJUJU/Hotel_and_Customer_Performance_during_Christmas_and_New_Year/tree/master) for its large size.
 
 ## Libraries
 * numpy
