@@ -10,6 +10,7 @@ Data is stored [here](https://github.com/rooosaJUJU/Hotel_and_Customer_Performan
 ## Libraries
 * numpy
 * pandas
+* matplotlib.pyplot
 
 ## Methods
 * 
